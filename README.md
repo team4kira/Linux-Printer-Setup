@@ -1,4 +1,4 @@
-# Linux-Printer-Setup
+# Linux-HP_Printer-Setup
 A Guide to setting up your HP Printer on Linux
 Steps in Terminal: 
 1. sudo pacman -S cup-filters
